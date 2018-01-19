@@ -1,0 +1,163 @@
+{
+  "questionsAndAnswers": [
+    {"q" : "get started","a" : "What are you looking for? \n price, product, brand, category or you want to search?","type" : 1}, 
+	{"q" : "hi","a" : "What are you looking for? \n price, product, brand, category or you want to search?","type" : 1},
+  {"q" : "hello","a" : "What are you looking for? \n price, product, brand, category or you want to search?","type" : 1},
+  {"q" : "search","a" : "type a keyword to search with..","type" : 2},
+  {"q" : "","a" : "Let me find you some results..","type" : 3},
+  {"q" : "what is your budget monthly?+/-10","a" : "what is your budget monthly?+/-10","type" : 3},
+  {"q" : "what is your budget monthly?","a" : "type a keyword to search with","type" : 3}
+],
+	"products": {
+   "1": {
+      "product_name": "iPhone 7 128GB",
+      "brand": "Apple",
+      "category": "Phones & Tablets",
+      "subscription_plan_price": 44.99
+   },
+   "2": {
+      "product_name": "iPhone 7 32GB",
+      "brand": "Apple",
+      "category": "Phones & Tablets",
+      "subscription_plan_price": 39.99
+   },
+   "3": {
+      "product_name": "iPhone 7 Plus 128GB",
+      "brand": "Apple",
+      "category": "Phones & Tablets",
+      "subscription_plan_price": 49.99
+   },
+   "4": {
+      "product_name": "Galaxy S8 64GB",
+      "brand": "Samsung",
+      "category": "Phones & Tablets",
+      "subscription_plan_price": 44.99
+   },
+   "5": {
+      "product_name": "Galaxy S8+ 64GB",
+      "brand": "Samsung",
+      "category": "Phones & Tablets",
+      "subscription_plan_price": 49.99
+   },
+   "6": {
+      "product_name": "Drone BEBOP",
+      "brand": "Parrot",
+      "category": "Drones",
+      "subscription_plan_price": 49.99
+   },
+   "7": {
+      "product_name": "Drone BEBOP 2",
+      "brand": "Parrot",
+      "category": "Drones",
+      "subscription_plan_price": 59.99
+   },
+   "8": {
+      "product_name": "Vive",
+      "brand": "HTC",
+      "category": "Gaming & VR",
+      "subscription_plan_price": 59.99
+   },
+   "9": {
+      "product_name": "Virtual Reality Glasses Rift VR",
+      "brand": "Oculus",
+      "category": "Gaming & VR",
+      "subscription_plan_price": 59.99
+   },
+   "10": {
+      "product_name": "MacBook 12\" M-5Y31, 8GB RAM, 516GB",
+      "brand": "Apple",
+      "category": "Computing",
+      "subscription_plan_price": 59.99
+   },
+   "11": {
+      "product_name": "MacBook Air 11\" i7 2.2, 8GB RAM, 512GB",
+      "brand": "Apple",
+      "category": "Computing",
+      "subscription_plan_price": 64.99
+   },
+   "12": {
+      "product_name": "MacBook Air 13\" i5-5250U, 4GB RAM, 128GB",
+      "brand": "Apple",
+      "category": "Computing",
+      "subscription_plan_price": 69.99
+   },
+   "13": {
+      "product_name": "MacBook Pro 13\" i5-3210M, 4GB RAM, 500GB",
+      "brand": "Apple",
+      "category": "Computing",
+      "subscription_plan_price": 74.99
+   },
+   "14": {
+      "product_name": "Convertible Laptop Surface Book 512GB SSD Intel Core i7 16GB RAM dGPU",
+      "brand": "Microsoft",
+      "category": "Computing",
+      "subscription_plan_price": 59.99
+   },
+   "15": {
+      "product_name": "Convertible Laptop YOGA 300-11IBR 80M1004KGE",
+      "brand": "Lenovo",
+      "category": "Computing",
+      "subscription_plan_price": 59.99
+   },
+   "16": {
+      "product_name": "Watch 38mm",
+      "brand": "Apple",
+      "category": "Wearables",
+      "subscription_plan_price": 39.99
+   },
+   "17": {
+      "product_name": "Watch 42mm",
+      "brand": "Apple",
+      "category": "Wearables",
+      "subscription_plan_price": 44.99
+   },
+   "18": {
+      "product_name": "Watch Ambit 3",
+      "brand": "Suunto",
+      "category": "Wearables",
+      "subscription_plan_price": 39.99
+   },
+   "19": {
+      "product_name": "Watch V800",
+      "brand": "Polar",
+      "category": "Wearables",
+      "subscription_plan_price": 39.99
+   },
+   "20": {
+      "product_name": "Watch WI503Q-1LDBR0001",
+      "brand": "Asus",
+      "category": "Wearables",
+      "subscription_plan_price": 44.99
+   },
+   "21": {
+      "product_name": "Alexa Dot",
+      "brand": "Amazon",
+      "category": "Smart Home",
+      "subscription_plan_price": 44.99
+   },
+   "22": {
+      "product_name": "Alexa Echo",
+      "brand": "Amazon",
+      "category": "Smart Home",
+      "subscription_plan_price": 49.99
+   },
+   "23": {
+      "product_name": "Qbo Milk Master",
+      "brand": "Tchibo",
+      "category": "Smart Home",
+      "subscription_plan_price": 29.99
+   },
+   "24": {
+      "product_name": "Robotic Vacuum Cleaner POWERbot VR20J9020UR/EG",
+      "brand": "Samsung",
+      "category": "Smart Home",
+      "subscription_plan_price": 39.99
+   },
+   "25": {
+      "product_name": "Robotic Vacuum Cleaner POWERbot VR20J9259U/EG",
+      "brand": "Samsung",
+      "category": "Smart Home",
+      "subscription_plan_price": 39.99
+   }
+}
+}

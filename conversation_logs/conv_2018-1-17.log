@@ -1,0 +1,73 @@
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: search
+bot: type a keyword to search with..
+user: h
+bot: Let me find you some results..
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+user: search
+bot: type a keyword to search with..
+user: home
+bot: Let me find you some results..
+[object Object],[object Object],[object Object],[object Object],[object Object]
+user: 
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: 
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: 
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: 
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: 
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: 
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: product
+bot: type a keyword to search with..
+user: mobile
+bot: Let me find you some results..
+
+user: set
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: product
+bot: type a keyword to search with..
+user: head
+bot: Let me find you some results..
+
+user: search
+bot: type a keyword to search with..
+user: iph
+bot: Let me find you some results..
+[object Object],[object Object],[object Object]
+user: price
+bot: what is your budget monthly?+/-10
+user: 20
+bot: Let me find you some results..
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: brand
+bot: type a keyword to search with..
+user: bata
+bot: Let me find you some results..
+
+user: 
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: brand
+bot: type a keyword to search with..
+user: apple
+bot: Let me find you some results..
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
