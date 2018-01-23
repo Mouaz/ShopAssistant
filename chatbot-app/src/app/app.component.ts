@@ -11,12 +11,20 @@ import { Http , Response } from '@angular/http';
 })
 export class AppComponent {
   title = 'Chat with us';
-  response: Response;
+  response: String;
+  request: String;
+  msgs = ['hi'];
+  clicked(event) { 
+    this.msgs.push(this.request+'');
+    this._chatService.getMsg(this.request)
+      .subscribe(response => {this.response = response});
+      this.msgs.push(this.response+'');
+ } 
    constructor(private _chatService: ChatService) {
    }
    
    ngOnInit() : void {
-      this._chatService.getMsg()
+      this._chatService.getMsg('hi')
       .subscribe(response => {this.response = response});
    }
 }

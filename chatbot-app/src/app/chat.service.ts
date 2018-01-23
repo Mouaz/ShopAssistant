@@ -7,11 +7,13 @@ import 'rxjs/add/operator/do';
 
 @Injectable()
 export class ChatService {
-   private _chatturl='http://localhost:8081/chat?msg=hi';
+   private _chatturl='http://localhost:8081/chat?msg=';
    constructor(private _http: Http){}
      
-   getMsg(): Observable<any> {
-       let response = this._http.get(this._chatturl).map((response: Response) => response.text());
+   getMsg(inp): Observable<any> {
+       if(inp=='')
+       inp = 'hi';
+       let response = this._http.get(this._chatturl+inp).map((response: Response) => response.text());
     //    return response; ;
       return response;
     //   .map((response: Response) => response.json())
