@@ -1,0 +1,72 @@
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: advanced
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: advanced
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: product
+bot: type a keyword to search with..
+user: app
+bot: Let me find you some results..
+
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: advanced
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: advanced
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: advanced
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: advanced
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: phone
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: phone
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: advanced
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: phone
+bot: ["Apple","Samsung"]
+user: app
+bot: [null]
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: advanced
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: phone
+bot: ["Apple","Samsung"]
+user: sam
+bot: [null]
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: advanced
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: phone
+bot: ["Apple","Samsung"]
+user: app
+bot: [null]

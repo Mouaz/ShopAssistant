@@ -13,18 +13,18 @@ export class AppComponent {
   title = 'Chat with us';
   response: String;
   request: String;
-  msgs = ['hi'];
+  msgs = [];
   clicked(event) { 
     this.msgs.push(this.request+'');
     this._chatService.getMsg(this.request)
-      .subscribe(response => {this.response = response});
-      this.msgs.push(this.response+'');
+      .subscribe(response => {this.response = response;
+        this.msgs.push(this.response+'');});
  } 
    constructor(private _chatService: ChatService) {
    }
-   
+   /*
    ngOnInit() : void {
       this._chatService.getMsg('hi')
       .subscribe(response => {this.response = response});
-   }
+   }*/
 }
