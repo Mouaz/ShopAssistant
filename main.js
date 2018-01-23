@@ -10,7 +10,10 @@ console.log('Say Hi to get started');
 var stdin = process.openStdin();
 
 //console.log(getProductBySubscriptionRange(10,100));
-
+app.use( function(req, res,next) {
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    next();
+});
 app.post('/chat', function (req, res) {
     res.end(respondToMe('hi'));
 });
