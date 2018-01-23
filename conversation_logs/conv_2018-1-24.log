@@ -70,3 +70,32 @@ user: phone
 bot: ["Apple","Samsung"]
 user: app
 bot: [null]
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: advanced
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: phone
+bot: ["Apple","Samsung"]
+user: app
+bot: ["iPhone 7 128GB","iPhone 7 32GB","iPhone 7 Plus 128GB","MacBook 12\" M-5Y31, 8GB RAM, 516GB","MacBook Air 11\" i7 2.2, 8GB RAM, 512GB","MacBook Air 13\" i5-5250U, 4GB RAM, 128GB","MacBook Pro 13\" i5-3210M, 4GB RAM, 500GB","Watch 38mm","Watch 42mm"]
+user: ipho
+bot: [{"product_name":"iPhone 7 128GB","brand":"Apple","category":"Phones & Tablets","subscription_plan_price":44.99},{"product_name":"iPhone 7 32GB","brand":"Apple","category":"Phones & Tablets","subscription_plan_price":39.99},{"product_name":"iPhone 7 Plus 128GB","brand":"Apple","category":"Phones & Tablets","subscription_plan_price":49.99}]
+user: app
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: search
+bot: type a keyword to search with..
+user: goo
+bot: Let me find you some results..
+
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: search
+bot: type a keyword to search with..
+user: app
+bot: Let me find you some results..
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
