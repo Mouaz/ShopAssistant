@@ -1,7 +1,9 @@
 # ShopAssistant
 
 1- Open command line in the root directory
-2- node .\main.js
-3- cd /chat-app
-4- ng serve --open
-3- enjoy
+2- npm install
+3- node .\main.js
+4- cd /chat-app
+5- npm install
+6- ng serve --open
+7- enjoy

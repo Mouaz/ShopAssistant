@@ -99,3 +99,22 @@ bot: type a keyword to search with..
 user: app
 bot: Let me find you some results..
 [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
+user: price
+bot: what is your budget monthly?+/-10
+user: 20
+bot: Let me find you some results..
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+user: advanced
+bot: ["Phones & Tablets","Drones","Gaming & VR","Computing","Wearables","Smart Home"]
+user: phone
+bot: ["Apple","Samsung"]
+user: sam
+bot: ["Galaxy S8 64GB","Galaxy S8+ 64GB","Robotic Vacuum Cleaner POWERbot VR20J9020UR/EG","Robotic Vacuum Cleaner POWERbot VR20J9259U/EG"]
+user: galax
+bot: [{"product_name":"Galaxy S8 64GB","brand":"Samsung","category":"Phones & Tablets","subscription_plan_price":44.99},{"product_name":"Galaxy S8+ 64GB","brand":"Samsung","category":"Phones & Tablets","subscription_plan_price":49.99}]
+user: hi
+bot: What are you looking for? 
+ price, product, brand, category or you want to search?
